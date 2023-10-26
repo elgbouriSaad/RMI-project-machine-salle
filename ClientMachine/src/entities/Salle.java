@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author MAYSSAE JABBAR
+ * @author ELGBOURI SAAD
  */
 
 public class Salle implements Serializable {

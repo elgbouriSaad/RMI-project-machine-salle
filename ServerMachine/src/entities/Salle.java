@@ -17,7 +17,7 @@ import javax.persistence.OneToMany;
 
 /**
  *
- * @author MAYSSAE JABBAR
+ * @author ELGBOURI SAAD
  */
 @Entity
 @NamedQuery(name = "findAlls",query = "from Salle")
